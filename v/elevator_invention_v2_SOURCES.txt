@@ -1,0 +1,39 @@
+Video: trend_elevator_invention_v2.mp4 / elevator_invention_v2.mp4 (Landlord Ledger, Nov 8–9 2026).
+English VO + music. Real moving stock footage + brief historical stills for contrast.
+Adaptation license: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+
+VOICEOVER
+- Microsoft Edge neural TTS via edge-tts, voice en-US-GuyNeural, rate +10% (free local tool; no paid credits).
+
+MUSIC
+- "Upbeat Forever" (ISRC USUAN1500063) by Kevin MacLeod
+  https://commons.wikimedia.org/wiki/File:Upbeat_Forever_(ISRC_USUAN1500063).mp3
+  License: CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
+  Credit: Music by Kevin MacLeod (incompetech.com), licensed under CC BY 3.0.
+  Modifications: trimmed/looped to video length, ducked under VO (~−18 dB relative), faded in/out, loudness-normalized with VO to ~−14 LUFS.
+
+MOVING FOOTAGE (Mixkit License — free for commercial/social use)
+- Mixkit stock clips (elevator / stairs / skyscraper / city drone pages): mixkit.co free stock video
+  Files used in production: Mixkit IDs approx 12852, 12854, 3093, 20215, 30180, 30998, 2034, 22223, 28823, 3094, 1614–1618
+  License: https://mixkit.co/license/#videoFree
+  Modifications: cropped to 9:16, color grade, zoom/shake/speed, text overlays.
+
+MOVING FOOTAGE (Wikimedia)
+1) Glass elevator ascending (Buddha Bar Prague) — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Elevator_in_transparent_elevator_shaft_in_Buddha_Bar_hotel_in_Prague_ascending_from_ground_floor_to_4th_floor.webm
+2) Elevator ride ascending (Buddha Bar Prague) — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Elevator_ride_from_ground_floor_to_4th_floor_in_elevator_in_Buddha_Bar_hotel_in_Prague.webm
+3) Going down in an elevator shaft — CC BY-SA 2.0
+   https://commons.wikimedia.org/wiki/File:Going_down_in_an_elevator_shaft_.webm
+4) The Skyscrapers of New York (1906) — Public Domain
+   https://commons.wikimedia.org/wiki/File:The_Skyscrapers_of_New_York_(1906).webm
+
+STILLS (brief old-vs-new contrast only)
+1) Elisha OTIS 1854 engraving — Public Domain
+   https://commons.wikimedia.org/wiki/File:Elisha_OTIS_1854.jpg
+2) Cast Iron Haughwout Building — Tony Hisgett — CC BY 2.0
+   https://commons.wikimedia.org/wiki/File:Cast_Iron_Haughwout_Building_(4683172769).jpg
+3) Home Insurance Building — Chicago Architectural Photographing Co. — Public Domain (US)
+   https://commons.wikimedia.org/wiki/File:Home_Insurance_Building.JPG
+
+Facts verified: Otis 1854 demo; 1857 Haughwout first passenger elevator; 1885 Home Insurance Building (sources: Otis.com history, Guinness, Wikipedia, Encyclopedia of Chicago).
