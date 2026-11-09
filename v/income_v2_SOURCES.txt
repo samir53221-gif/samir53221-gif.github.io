@@ -1,0 +1,5 @@
+LandlordLedger Buyer Watch Ep.1 — Payment vs Income (income_v2)
+Footage: Pexels stock video (Pexels License) — IDs used in build: 32830516, 2253719, 28947949, 7646398, 7578725, 7646790, 6266251, 7646399 and related.
+Music: generated/ducked bed mixed under VO (free pipeline; same as card_v2/patch_v2).
+Voice: free local dialogue TTS (DIA hosts_v1), STT-checked.
+Facts: Zillow October 2026 market report (Nov 5, 2026). Typical payment ~41.5% of median income (was 39.2%); ~$2,004; +4.8% MoM; +12.8% YoY.
