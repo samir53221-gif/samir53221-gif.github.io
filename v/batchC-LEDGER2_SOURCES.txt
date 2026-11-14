@@ -1,0 +1,15 @@
+LEDGER2.mp4 — "Landlords: stop losing rent money to a messy spreadsheet" — built Sat Nov 14 2026 (CST).
+Voices: edge-tts en-US-AvaNeural (woman) / en-US-AndrewNeural (man), rate +0%.
+Music: "Kick Shock" by Kevin MacLeod (incompetech.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — credit required in the post description.
+Stock video: Mixkit Free License (https://mixkit.co/license/#videoFree) — commercial use OK, no attribution required.
+  45922 https://mixkit.co/free-stock-video/young-businessman-overwhelmed-with-paperwork-45922/
+  308   https://mixkit.co/free-stock-video/man-working-on-his-laptop-308/
+  4517  https://mixkit.co/free-stock-video/annoyed-woman-working-in-a-room-4517/
+  47626 https://mixkit.co/free-stock-video/man-at-home-accounts-for-payments-to-be-made-47626/
+  15064 https://mixkit.co/free-stock-video/house-keys-on-a-table-15064/
+  24064 https://mixkit.co/free-stock-video/man-checking-bills-and-doing-budgets-24064/
+  6727  https://mixkit.co/free-stock-video/woman-scrolling-through-her-phone-6727/
+In-house graphics (ours): hook typography, unit list, payments/late-fee sheet, dashboard KPI cards, end card.
+Our product images: rendered from /workspace/products/rent-ledger example file (example data, labelled) — preview-rentroll.png, preview-dashboard.png.
+Shot list with timings: ledger2/shots.json
+Product: $9 Landlord Rent Ledger — https://samirwave41.gumroad.com/l/jtdey — landing https://samir53221-gif.github.io/v/rent-ledger/
