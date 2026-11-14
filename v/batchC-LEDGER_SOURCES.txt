@@ -1,0 +1,20 @@
+LEDGER.mp4 — "I asked AI how to make $9 while I sleep" — built Sat Nov 14 2026 (CST). NOT published.
+Voices: edge-tts en-US-AvaNeural (woman) / en-US-AndrewNeural (man), rate +0%.
+Music: "Kick Shock" by Kevin MacLeod (incompetech.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — credit required in the post description.
+Stock video: Mixkit Free License (https://mixkit.co/license/#videoFree) — commercial use OK, no attribution required.
+  33550 https://mixkit.co/free-stock-video/woman-sleeping-in-her-bed-in-dim-blue-light-33550/
+  47495 https://mixkit.co/free-stock-video/pensive-man-with-a-question-mark-in-his-mind-47495/  (green screen keyed out)
+  46994 https://mixkit.co/free-stock-video/calculating-expenses-of-the-month-46994/
+  34126 https://mixkit.co/free-stock-video/solving-accounts-in-a-notebook-with-a-calculator-34126/
+  12877 https://mixkit.co/free-stock-video/slow-motion-offer-of-house-key-and-handshake-12877/
+  42655 https://mixkit.co/free-stock-video/a-woman-writing-in-her-spiral-notebook-42655/
+  1781  https://mixkit.co/free-stock-video/typing-on-a-laptop-close-up-1781/
+  42133 https://mixkit.co/free-stock-video/a-mans-hand-scrolling-on-a-sales-page-42133/
+  21364 https://mixkit.co/free-stock-video/man-scrolling-a-social-media-app-21364/
+  4705  https://mixkit.co/free-stock-video/young-worker-doing-inventory-4705/
+  24354 https://mixkit.co/free-stock-video/woman-counting-dollars-24354/
+  4801  https://mixkit.co/free-stock-video/young-man-sitting-scrolling-on-his-cell-phone-4801/
+In-house graphics (ours): chat UI (generic "AI Assistant", no brand), proof card, MISSION HUDs, NO STORE/ADS card, $0 card, end card.
+Our product images: rendered from /workspace/products/rent-ledger example file (example data, labelled).
+Proof-card facts: Gumroad fees 10% + $0.50 per direct sale, no monthly fee — https://gumroad.com/pricing (checked Nov 14 2026). $9 − ($0.90 + $0.50) = $7.60.
+Shot list with timings: ledger/shots.json
