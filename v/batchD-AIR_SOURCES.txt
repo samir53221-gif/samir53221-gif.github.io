@@ -1,0 +1,13 @@
+AIR.mp4 — "If your flight got cancelled, you're owed money. But the official story doesn't add up." Built Sat Nov 14 2026 (CST). batchD.
+Voices: edge-tts en-US-AvaNeural (woman) / en-US-AndrewNeural (man), rate +0%.
+Music: "Volatile Reaction" by Kevin MacLeod (incompetech.com), CC BY 4.0 — credit in post description.
+Stock video: Mixkit Free License (https://mixkit.co/license/#videoFree): 36351, 4065, 22241, 23210, 7891, 14886, 4003, 23269, 7863, 27989, 4008, 11800, 18249, 23216, 18297, 38504, 31103.
+In-house graphics: ~10,000 counter, $30.1B/$50B card, "no sign of a cyberattack / you decide" card, departure board (from batchB/d), refund-rule card. Whoosh SFX synthesized in numpy.
+FACTS (verified 2026-11-14 ~2:30 PM CST):
+- Nearly 10,000 flights cancelled by 11:30 PM Nov 13 (Flightradar24 via Reuters). Ground stop >4h; longest since 9/11. Reuters: https://www.reuters.com/3fec1b0a85a0/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/
+- Official cause (Duffy, DOT ICYMI): contractor L3Harris doing "routine maintenance" at "at least one" remote FAA site, switching copper to fiber; a router flooded the ATC network (>1,000 connection attempts every 4–5 s). "Once we were able to isolate the work ... all of our systems came back online." https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace
+- Funding: earlier Friday, before the outage, White House/DOT urged Congress to approve $30.1B; after, Duffy called for $50B (Reuters).
+- DHS Sec. Mullin: "zero evidence" of a cyberattack so far; not ruled out; investigation ongoing (Reuters, DHS).
+- Refund: DOT — refund owed if the airline cancels for any reason and you decline rebooking/vouchers; 7 business days (card) / 20 days (other). 14 CFR 260.6; https://www.transportation.gov/individuals/aviation-consumer-protection/refunds
+- Reuters: airlines not required to pay extra compensation for this outage (refund ≠ compensation). Video says "refund" only.
+Framing: open questions only; no claim of a cover-up; official statements quoted as statements.
