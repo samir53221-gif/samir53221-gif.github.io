@@ -1,0 +1,11 @@
+RING.mp4 — "You can get a real payment ring for free. Just don't sand your card into one." Built Sat Nov 14 2026 (CST). batchD.
+Reference studied: https://www.youtube.com/shorts/RLA2n3ymnQM (Crafter Duck GARAGE, 109.3M views at 14 Nov ~12:40 AM CST; 180s; 0 words; first shot 7.13s; 33 cuts/min; payoff = ring paying at terminal). Not reused.
+Voices: edge-tts Ava / Andrew +0%. Music: "Movement Proposition" by Kevin MacLeod (incompetech.com), CC BY 4.0.
+Stock video: Mixkit Free License: 27216, 47295, 47051, 46964, 6367, 46966, 4169, 12823, 5181, 18299, 23466, 51649.
+In-house graphics: view counter (title quoted, no ref footage), antenna-loop card, insert-card terminal, 13.56 MHz, price tags, Quontic card, token card.
+FACTS (verified 2026-11-14 CST):
+- Contactless cards use an antenna loop/booster antenna; chip alone isn't enough; NFC 13.56 MHz; newer cards use inductively coupled antennas. Kuan Chen ring projects https://www.kuanhchen.com/projects/ringii ; Hackaday 2021 https://hackaday.com/2021/12/10/an-nfc-antenna-ring-with-a-chip-as-its-jewel/
+- Card usually the issuer's property / terms may bar modification (stated as "usually").
+- Store rings: PAGO $149 (US works only with Klarna cards) https://us.pagopace.com/collections/nfc-bezahlringe ; Nova Pay $249 https://www.novaring.com/products/nova-pay
+- Quontic Pay Ring "$29 FREE", exclusively for Quontic checking customers https://www.quontic.bank/pay-ring/
+- Phone wallets use a device token, not the real card number (Google) https://blog.google/products-and-platforms/platforms/google-pay/device-tokens-google-wallet/
