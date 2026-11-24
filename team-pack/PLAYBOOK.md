@@ -1,9 +1,23 @@
 # LandlordLedger — MASTER PLAYBOOK (the one file every video starts from)
 
-Created: Mon Nov 23, 2026 (America/Chicago). Owner: Ahmed Helal.
+Created: Mon Nov 23, 2026 (America/Chicago). Updated: Mon Nov 23, 2026 7:25 PM CST (US-only decision, Section 0). Owner: Ahmed Helal.
 Rule zero: **Every new LandlordLedger video starts by reading this file top to bottom.** If a rule here conflicts with an older note (social-media-master.md, memory, old scripts), THIS FILE WINS. When Ahmed approves a new rule, it is added here the same day (with date + message id), and old rules it replaces are deleted from here, not struck through.
 
 القاعدة صفر: أي فيديو جديد يبدأ بقراية الملف ده كله. لو في تعارض مع أي ملاحظة قديمة، الملف ده هو اللي يتنفذ. أي قاعدة جديدة يوافق عليها أحمد تتضاف هنا في نفس اليوم.
+
+---
+
+## 0. US-ONLY DECISION — Mon Nov 23, 2026 (Ahmed, t859u). Overrides every older note, including other sections of this file.
+
+- **Audience:** United States only. No Egyptian/Arabic content on LandlordLedger pages.
+- **Trend sources (daily):** TikTok Creative Center with country = United States (needs a TikTok login; a team member with the account opens it, we never ask Ahmed for credentials), US YouTube Shorts, US Instagram Reels, Google Trends US. Pick 1–2 trends that already have million-view videos.
+- **24-hour rule:** a US trend video must go out within 24 hours of the trend starting, or we skip that trend.
+- **Post window:** 6–10 PM Eastern = **5–9 PM Central (Chicago)** = 1–5 AM Cairo. Use native platform scheduling or Buffer so nobody stays up. If approved inside the window, publish immediately; if approved outside it, schedule for the start of the next window (still within 24 h). **Replaces the old midnight-CST publishing rule.**
+- **Language:** simple American English only, for VO, on-screen text and captions. Burned-in captions are large, clear and synced to the voice so no accent hurts retention.
+- **Format locked for 30 days (from Nov 23, 2026):** "PASS or FAIL" series on US topics: movies, celebrities, games, food, sports (NFL, NBA). Trend subject's real face big in second 1, viewer is the judge, every video ends with a comment question ("PASS or FAIL? Tell us why."). No format changes during the 30 days. Review after 30 days and change at most one thing.
+- **Template:** Bond v3 "PASS or FAIL" (https://samir53221-gif.github.io/v/bond_v3.mp4). Change subject/colors only.
+- **Fawazir (Ramadan series):** postponed together with the Egyptian-pages decision; finished episodes/scripts are kept (/workspace/fawazir/), possibly revisited for Ramadan on Egyptian pages.
+- Plan document: /workspace/team-pack/v2/LandlordLedger_growth_plan_US.{pdf,docx}.
 
 ---
 
@@ -18,7 +32,7 @@ Rule zero: **Every new LandlordLedger video starts by reading this file top to b
 
 ## 2. The winning format (الفورمات اللي كسبت)
 
-- **Choice / competition, pick ONE.** "Who wins?", "Pick one", "PASS or FAIL — you're the jury". Neutral: we never hint at a winner or mock anyone. The voice itself asks the question.
+- **For the 30-day series (from Nov 23): "PASS or FAIL" only (Section 0).** General family: choice / competition, pick ONE. "Who wins?", "Pick one", "PASS or FAIL — you're the jury". Neutral: we never hint at a winner or mock anyone. The voice itself asks the question.
 - **Pure trend.** No real-estate tie-in: no property prices, no real-estate captions or hashtags. (GTA "Florida prices" and BookTok #realestateinvesting both underperformed.)
 - **Trend subject huge from second 1.** First frame = the trend's main person/thing (e.g. Pattinson for Bond, RDJ/Doom for Doomsday) + trend name + key hashtag + what is new ("final trailer just dropped", "opened to $56M"). Hook fact first, question in the first 3 seconds — never at the end only.
 - **The trend owner stays at the center** of every follow-up episode (Bond Round 2 without Pattinson = rejected).
@@ -53,7 +67,7 @@ Caption must contain, in this order:
 - Title (YouTube) = hook + choice + #Shorts.
 - **Pinned comment** with the choice ("No mixing. Pick one: A, B or C.") on every platform — Ahmed pins manually if the tool can't.
 - Platforms: TikTok + YouTube + Instagram (when not suspended) + Facebook (only if a page is connected in Buffer).
-- **Publish immediately** once Ahmed approves the final video — the trend doesn't wait for midnight.
+- **Publish immediately** once Ahmed approves, if inside the US window (5–9 PM CST); otherwise schedule for the next window, always within 24 h of the trend (see Section 0).
 - Hosting: samir53221-gif.github.io (no Google Drive).
 
 ## 6. Comments & funnel (الكومنتات)
@@ -72,7 +86,7 @@ Caption must contain, in this order:
 5. Build the full video from the approved template (Section 9) — change the subject, not the system.
 6. Run the **QA checklist** (Section 8). Fix until every box passes.
 7. Preview to Ahmed: video + caption (copy-paste text in its own message) + pinned comment.
-8. On OK → publish now on all connected platforms → send links.
+8. On OK → publish now if inside 5–9 PM CST, else schedule for the next window (within 24 h) → send links.
 9. Metrics check at +3 h, +24 h, +72 h; log in the results table (Section 10) with the reason it won/failed.
 
 ## 8. Mandatory pre-preview QA checklist (لازم كله ✓ قبل ما أحمد يشوف)
